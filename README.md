@@ -1,4 +1,4 @@
-# Ieu_computer_vision
+# IEU_computer_vision
 
 
 #### Environment:
